@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Kişisel Bilgiler\Kişisel Bilgiler\bin\Debug\Kişisel Bilgiler.exe.config
+C:\Users\user\Desktop\10-M\Kişisel Bilgiler\Kişisel Bilgiler\bin\Debug\Kişisel Bilgiler.exe
+C:\Users\user\Desktop\10-M\Kişisel Bilgiler\Kişisel Bilgiler\bin\Debug\Kişisel Bilgiler.pdb
+C:\Users\user\Desktop\10-M\Kişisel Bilgiler\Kişisel Bilgiler\obj\Debug\Kişisel Bilgiler.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Kişisel Bilgiler\Kişisel Bilgiler\obj\Debug\Kişisel_Bilgiler.Form1.resources
+C:\Users\user\Desktop\10-M\Kişisel Bilgiler\Kişisel Bilgiler\obj\Debug\Kişisel_Bilgiler.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Kişisel Bilgiler\Kişisel Bilgiler\obj\Debug\Kişisel Bilgiler.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Kişisel Bilgiler\Kişisel Bilgiler\obj\Debug\Kişisel Bilgiler.exe
+C:\Users\user\Desktop\10-M\Kişisel Bilgiler\Kişisel Bilgiler\obj\Debug\Kişisel Bilgiler.pdb
